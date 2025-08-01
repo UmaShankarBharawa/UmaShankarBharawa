@@ -10,7 +10,7 @@ I'm a passionate **Frontend Developer** with hands-on experience in building mod
 ### 🚀 Projects
 Here are a few of my featured projects:
 - 🚌 [Van Life Website](https://github.com/umashankarbharawa/VanLife_Website_Project) – Van rental platform built with React.js
-- 🍽️ [Restaurant Website](https://github.com/umashankarbharawa/Restaurant-Website-Project) – Booking-ready UI with React + Tailwind
+- 🍽️ [Restaurant Website](https://github.com/umashankarbharawa/Restaurant-Website-Project) – Booking-ready UI with React
 - 🧳 [Travel Journal](https://github.com/umashankarbharawa/Travel_Journal) – Journal UI using reusable React components
 
 👉 Check out all my projects at [github.com/umashankarbharawa](https://github.com/umashankarbharawa)
